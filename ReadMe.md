@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 👋 My name is Ishan Nagpal, and I'm a high schooler passionate about using technology to solve real-world problems. I'm interested in machine learning, robotics, geospatial analysis, and energy systems. I love building things, whether that's a rocket, a robot, or a predictive model. When I'm not coding, you can find me on the soccer field or watching football. Fun fact: I once met Saquon Barkley and the entire New York Giants squad!
+Hi! 👋 My name is Ishan Nagpal, and I'm a high schooler passionate about using technology to solve real-world problems. I'm interested in machine learning, robotics, geospatial analysis, and energy systems. I love building things, whether that's a rocket 🚀, a robot 🤖, or a predictive model 💻. When I'm not coding, you can find me on the soccer field ⚽ or watching football 🏈. Fun fact: I once met Saquon Barkley and the entire New York Giants squad!
 
 
 ## 🌐 Socials:
